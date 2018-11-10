@@ -1,0 +1,141 @@
+*{
+	font-family:verdana;sans-serif;
+	font-size:14pt;
+}
+body
+{
+	width:70%;
+	margin:20px auto;
+	background:#ffffff;
+	border: 1px solid #888;
+	border-radius:8px;
+}
+html
+{background:#ffffff;}
+hr{
+	width:70%;
+}
+img
+{
+	border: 1px solid black;
+	margin-right:15px;
+	-moz-box-shadow:2px 2px #888;
+	-webkit-box-shadow:2px 2px #888;
+	box-shadow::2px 2px #888;
+}
+li a, .button{
+text-decoration:none;}
+
+li a:hover, .button:hover{
+	color:black;
+	//background: #1a1aff;
+	//background-color: #1a1aff;
+	font-weight:bold;
+}
+title{
+	color:#ffff00;
+}
+#myInput{
+	color:black;
+}
+.appname{
+	text-align:center;
+	background: #1a1aff;
+	color:#ffff00;
+	font-family:helvetica;
+	font-size:20pt;
+	padding:4px;
+}
+.fieldname{
+	float:left;
+	width:120px;
+}
+.main{
+	margin-left:30px;
+}
+.info{
+	background:white;
+	color:#green;
+	border: 1px solid green;
+	padding: 5px 10px;
+	margin-left:40px;
+}
+.menu li, .button{
+	display:inline;
+	padding: 4px 6px;
+	border: 1px solid #777;
+	background:white;
+	color:black;
+	margin-right:8px;
+	border-radius:5px;
+	-moz-box-shadow:2px 2px #888;
+	-webkit-box-shadow:2px 2px #888;
+	box-shadow:2px 2px #888;
+}
+.subhead{
+	font-weight:bold;
+}
+.taken, .error{
+	color:red;
+}
+.available{
+	color:green;
+}
+
+.whisper{
+	font-style:intalic;
+	color:#006600;
+}
+textarea{
+	font-size:16px;
+	padding: 8px 10px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+	}
+.adding{
+		background-color: #1a1aff;
+		color:#ffff00;
+		border:2px solid #9999ff;
+		text-align:center;
+		font-size:16px;
+		font-weight:none;
+		display:inline-block;
+		padding:8px 10px
+		box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+		width:73%;
+		height:30px
+	}
+.adding:hover{
+		font-weight:bold;
+		border:none;
+		color:white;
+	}
+#logo{
+	font-family:Georgia;
+	font-weight:bold;
+	font-style:italic;
+	font-size:97px;
+}
+ul.meaning{
+	list-style-type:square;
+}
+ul.example{
+	list-style-type:circle;
+}
+.form-control{
+	width:100px;
+}
+input.form-signup{
+	border-radius:10px;
+	width:80%;
+	display:inline-block;
+	padding:5px 10px;
+}
+input.form-signup1{
+	border-radius:10px;
+	width:300px;
+	display:inline-block;
+	padding:5px 10px;
+}
