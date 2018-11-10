@@ -2,4 +2,5 @@
 BasicWeb
 
 1.Run setup.php
-2.Navigate main.php first
+#
+2.Navigate index.php first
