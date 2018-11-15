@@ -1,5 +1,5 @@
 # Web1
-BasicWeb
+This is my first project: A Basic login Web without much user interaction but totally built from scratch. Enjoy reading and using code.
 
 1.Run setup.php
 #
