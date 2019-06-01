@@ -3,4 +3,4 @@ This is my first project: A Basic login Web without much user interaction but to
 #
 1. Run [setup.php](https://github.com/ttuanho/Web1/blob/master/setup.php) first
 
-2. Then aavigate [index.php] (https://github.com/ttuanho/Web1/blob/master/index.php) 
+2. Then navigate [index.php](https://github.com/ttuanho/Web1/blob/master/index.php).
